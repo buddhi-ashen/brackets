@@ -3,7 +3,7 @@ import Head from "next/head";
 const TITLE = "Brackets";
 const DESCRIPTION =
   "Brackets is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you want to share your code with anyone or on any social media this is the application you need.";
-const URL = "https://codetoimg.com";
+const URL = "https://brackets-sable.vercel.app/";
 
 const SEO = () => {
   return (
